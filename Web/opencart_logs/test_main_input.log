@@ -1,0 +1,2 @@
+2024-04-24 14:32:09,515 - INFO - Поиск элемента: ('css selector', 'div.input-group > input.form-control.input-lg')
+2024-04-24 14:32:09,587 - INFO - Поиск элемента: ('css selector', 'div.input-group span.input-group-btn > button.btn.btn-default.btn-lg')

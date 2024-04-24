@@ -1,0 +1,5 @@
+2024-04-24 14:32:12,234 - INFO - Поиск элемента: ('xpath', "//a[contains(text(),'Отзывов (0)')]")
+2024-04-24 14:32:12,282 - INFO - Поиск элемента: ('id', 'input-name')
+2024-04-24 14:32:12,342 - INFO - Поиск элемента: ('id', 'input-review')
+2024-04-24 14:32:12,463 - INFO - Поиск элемента: ('css selector', 'div.container:nth-child(4) div.row div.col-sm-12 div.row:nth-child(1) div.col-sm-8 div.tab-content div.tab-pane.active:nth-child(2) form.form-horizontal div.form-group.required:nth-child(5) div.col-sm-12 > input:nth-child(6)')
+2024-04-24 14:32:12,512 - INFO - Поиск элемента: ('id', 'button-review')
